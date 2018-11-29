@@ -1,2 +1,2 @@
 # SAJavaLessons
-whatever learnt
+whatever learnt in class
